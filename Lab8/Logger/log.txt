@@ -1,0 +1,12 @@
+Testing Input to the file
+User Input: 100
+End of file input
+Testing Input to the file
+User Input: 100
+End of file input
+Testing Input to the file
+User Input: 100
+End of file input
+Testing Input to the file
+User Input: 100
+End of file input
